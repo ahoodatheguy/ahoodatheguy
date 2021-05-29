@@ -1,4 +1,7 @@
-# Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hello, I'm Ahadu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h3 align="center">A high school part-time developer</h3>
+
+<p align="left"> <a href="https://twitter.com/freeahooda" target="blank"><img src="https://img.shields.io/twitter/follow/freeahooda?logo=twitter&style=for-the-badge" alt="freeahooda" /></a> </p>
 
 
 ## Table of Contents
@@ -10,11 +13,7 @@
 
 ## <a name="learning-tech"></a> Technologies I'm Learning
 
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://python.org)
-[<img height="32" width="32" src="https://adityagaiki.com/assets/img/Discord.py%20Logo.png"/>](https://discordpy.readthedocs.io/en/stable/)
-[<img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>](https://www.learn-c.org/)
-[<img height="32" width="32" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"/>](https://www.oracle.com/java/technologies/)
-[<img height="32" width="32" src="https://img.icons8.com/color/452/mongodb.png"/>](https://www.mongodb.com/)
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahoodatheguy&show_icons=true&theme=algolia&hide_border=true" />
 
