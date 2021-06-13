@@ -10,6 +10,7 @@
 
 ## <a name="current-projects"></a>Current Projects
 * [fujiSan discord bot](https://github.com/ahoodatheguy/fujisan)
+* [TUItter](https://github.com/ahoodatheguy/TUItter)
 
 ## <a name="learning-tech"></a> Technologies I'm Learning
 
